@@ -16,7 +16,7 @@ navegacion.appendChild(nav);
 nav.appendChild(ul);
 
 //logo e ir a pagina principal
-ORIGEN.href = '/';
+ORIGEN.href = '/index.html';
 ORIGEN.appendChild(img);
 img.src = 'assets/logo_Electro_Mundo.jpg';
 img.alt = 'Electro Mundo';
